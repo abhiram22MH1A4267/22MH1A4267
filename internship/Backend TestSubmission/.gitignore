@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log*
+.eslintcache
+.node_repl_history
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.*.local
+
+# Build artifacts
+dist/
+build/
+coverage/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
